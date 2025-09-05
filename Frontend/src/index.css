@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* Cupcake Theme */
+@plugin "daisyui/theme" {
+  name: "cupcake";
+  default: false;         
+  prefersdark: false;      
+  color-scheme: cupcake;
+
+  --color-primary: #7c3aed;           
+  --color-primary-focus: #6d28d9;    
+  --color-primary-content: #ffffff;  
+
+}
+
+@plugin "daisyui/theme" {
+  name: "dark";
+  default: true;           
+
+  --color-primary: #7c3aed;
+  --color-primary-content: #ffffff;
+
+}

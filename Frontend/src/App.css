@@ -1,0 +1,14 @@
+/* Custom Purple Theme Override */
+[data-theme="cupcake"] {
+  --p: 258.89 94.37% 51.18%; /* Purple primary */
+  --pf: 258.89 94.37% 41.18%; /* Purple primary focus */
+  --pc: 0 0% 100%; /* White text on purple */
+  --a: 258.89 94.37% 51.18%; /* Purple accent */
+  --af: 258.89 94.37% 41.18%; /* Purple accent focus */
+  --ac: 0 0% 100%; /* White text on purple accent */
+}
+
+/* Keep dark theme as is */
+[data-theme="dark"] {
+  /* Dark theme colors remain unchanged */
+}

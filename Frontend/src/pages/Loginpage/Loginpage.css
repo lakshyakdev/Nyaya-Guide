@@ -1,0 +1,21 @@
+.text-color {
+    color: black !important;
+}
+
+.link-custom {
+    color: purple !important;
+}
+
+.Loginbtn {
+    border-radius: 0.8em !important;
+    border-color: purple !important;
+    background-color: purple !important;
+    color: white !important; 
+}
+
+.hero-content {
+    padding: 80px !important;
+    border-radius: 15% !important;
+    border: 2px solid gray !important;
+}
+

@@ -1,0 +1,11 @@
+
+.authButtons{
+    background-color:black;
+    color: white;
+}
+
+.authButtons:hover{
+    border-color:blueviolet;
+    border-width: 2px;
+    background-color: rgb(30, 27, 27);
+}
