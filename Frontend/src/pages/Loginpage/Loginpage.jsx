@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useDispatch } from "react-redux";
 import { login } from "../../redux/slices/authSlice";
 import toast from "react-hot-toast";
-import "./LoginPage.css"
+import "./Loginpage.css"
 import Navbar from "../../components/Navbar/Navbar";
 
 export default function LoginPage() {
